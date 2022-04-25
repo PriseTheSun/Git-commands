@@ -33,3 +33,8 @@ Esse comando não apaga novos arquivos. Para apagar novos arquivos que ainda nã
 Se você executou <b> git add </b> e quer desfazer, use o <b>reset.</b>
 
 #### git reset
+
+Para desfazer as modificações, após o <b> reset </b> use o <b> checkout </b> ou <b> clean </b> mostrados anteriormente.
+
+## 4.3 - Desfazendo o último commit
+Caso você tenha feito alterações e já tenha chegado a realizar um commit, para desfazer é necessário usar o revert.
