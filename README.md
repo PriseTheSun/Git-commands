@@ -29,4 +29,7 @@ Esse comando não apaga novos arquivos. Para apagar novos arquivos que ainda nã
 #### git clean -df
 
 ## 4.2 - Removendo arquivos do Stage
-Se você executou git add e quer desfazer, use o reset.
+
+Se você executou <b> git add </b> e quer desfazer, use o <b>reset.</b>
+
+#### git reset
