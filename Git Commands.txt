@@ -1,1 +1,0 @@
-Criei um manual basico para comandos git para me guiar e guiar a galera tambem
