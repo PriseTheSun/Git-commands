@@ -1,0 +1,6 @@
+1 - Iniciando um Repositório
+Todo repositørio Git armazena as informações dentro de uma pasta 
+oculta chamada “/.git”. Para que os arquivos de uma pasta possam 
+ser versionados pelo Git, é preciso iniciar o repositório. Basta executar o comando abaixo:
+
+$ git init
