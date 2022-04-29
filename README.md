@@ -55,3 +55,14 @@ Esse comando lista todas as branches presentes no repositório do seu computador
 
 #### :point_right: git branch
 Caso você queira que ele liste também as branches que estão no repositório remoto, adicione :point_right: -a:
+
+#### :point_right: git branch -a
+
+## 6.2 - Indo para outra branch
+Para mudar para uma outra branch basta usar o comando :point_right: checkout, passando o nome da branch.
+
+#### git checkout minha-branch
+Se você adicionar :point_right: -b, uma nova branch será criada.
+
+#### :point_right: git checkout -b minha-nova-branch
+
