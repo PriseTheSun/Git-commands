@@ -36,7 +36,11 @@ Se você executou :point_right: git add  e quer desfazer, use o  :point_right: r
 Para desfazer as modificações, após o reset  use o :point_right: checkout  ou :point_right: clean  mostrados anteriormente.
 
 ## 4.3 - Desfazendo o último commit
-Caso você tenha feito alterações e já tenha chegado a realizar um commit, para desfazer é necessário usar o :point_right: revert.
+Caso você tenha feito alterações e já tenha chegado a realizar um commit, para desfazer é necessário usar o 
+
+#### :point_right: revert.
+
+ou
 
 #### :point_right: git revert HEAD
 
